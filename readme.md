@@ -1,6 +1,6 @@
 # Hi, there I'm Pritam
 ### I am a teenager student with a deep passion for computer science and technology. As an aspiring developer, I am constantly on the lookout for new opportunities to learn and grow my skills. I have a strong desire to explore and experiment with different programming languages and technologies, and I love to tinker with new software and technologies in my free time. In addition to this, I am also an avid participant in hackathons and coding challenges, as I believe that these experiences provide me with valuable opportunities to learn and grow as a developer. On my GitHub profile, you can find a small collection of projects and experiments that I have worked on, and I am excited to be a part of the open source community where I can learn from and collaborate with other developers.
-------- 
+<!-- ------- 
 
 ### Languages
 
@@ -24,4 +24,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Adobe_Audition_CC_icon_%282020%29.svg" height="40" width="52"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" height="40" width="52"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="40" width="52"/>
-</div>
+</div> -->
