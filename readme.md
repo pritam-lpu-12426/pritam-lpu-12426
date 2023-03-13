@@ -9,6 +9,7 @@
     <a href="https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language,appearance%20of%20the%20document."><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52"/></a>
     <a href="https://www.autohotkey.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg" height="40" width="52"/></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=(pronounced%20/,Standardization%20(ISO)."><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" width="52"/></a>
+    <a href="https://opensource.com/resources/what-bash"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="40" width="52"/></a>
 </div>
 
 ### **Software**
