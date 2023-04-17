@@ -2,7 +2,8 @@
 ### 👋 Hi! I'm a teenager student with a deep passion for computer science and technology 💻🌐.
 ### As an aspiring developer, I'm constantly on the lookout for new opportunities to learn and grow my skills 📈📚.
 ### I have a strong desire to explore and experiment with different programming languages and technologies 🤖💻, and I love to tinker with new software and technologies in my free time 🕰️⚙️.
-### In addition to this, I'm also an avid participant in hackathons and coding challenges 🏆👨‍💻👩‍💻, as I believe that these experiences provide me with valuable opportunities to learn and grow as a developer. On my GitHub profile 🐙, you can find a small collection of projects and experiments that I've worked on, and I'm excited to be a part of the open source community where I can learn from and collaborate with other developers 👨‍💻👩‍💻🤝.
+### In addition to this, I'm also an avid participant in hackathons and coding challenges 🏆👨‍💻👩‍💻, as I believe that these experiences provide me with valuable opportunities to learn and grow as a developer. 
+### On my GitHub profile 🐙, you can find a small collection of projects and experiments that I've worked on, and I'm excited to be a part of the open source community where I can learn from and collaborate with other developers 👨‍💻👩‍💻🤝.
 ------- 
 
 ### **Languages**
