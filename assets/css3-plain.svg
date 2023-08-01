@@ -1,1 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#1572B6" d="M8.76 1l10.055 112.883 45.118 12.58 45.244-12.626L119.24 1H8.76zm89.591 25.862l-3.347 37.605.01.203-.014.467v-.004l-2.378 26.294-.262 2.336L64 101.607v.001l-.022.019-28.311-7.888L33.75 72h13.883l.985 11.054 15.386 4.17-.004.008v-.002l15.443-4.229L81.075 65H48.792l-.277-3.043-.631-7.129L47.553 51h34.749l1.264-14H30.64l-.277-3.041-.63-7.131L29.401 23h69.281l-.331 3.862z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 98.057996 110"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="css3-plain.svg"
+   width="98.057999"
+   height="110"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="4.98"
+     inkscape:cx="56.927711"
+     inkscape:cy="83.13253"
+     inkscape:window-width="1320"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="#1572b6"
+     d="M 0,0 8.014315,89.973139 43.975515,100 80.037142,89.936475 88.057834,0 Z m 71.408304,20.613249 -2.667719,29.97298 0.008,0.1618 -0.01116,0.372222 v -0.0032 l -1.89538,20.957574 -0.208826,1.861903 -22.604274,6.252042 v 7.98e-4 l -0.01754,0.01514 -22.565219,-6.287112 -1.52794,-17.327021 H 30.98366 l 0.785092,8.810566 12.263376,3.323689 -0.0032,0.0064 v -0.0016 L 56.337725,65.358711 57.638507,51.011055 H 31.907415 L 31.686633,48.585639 31.183696,42.903485 30.919873,39.852387 H 58.616485 L 59.623953,28.693718 H 17.439404 l -0.220782,-2.423822 -0.50214,-5.683747 -0.26462,-3.051099 h 55.220264 z"
+     id="path2"
+     style="stroke-width:0.797048" />
+</svg>

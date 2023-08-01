@@ -6,11 +6,11 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 448 512.02502"
+   viewBox="0 0 97.496003 110"
    xml:space="preserve"
    sodipodi:docname="bash_logo_colored.svg"
-   width="448"
-   height="512.02502"
+   width="97.496002"
+   height="110"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -95,9 +95,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#505050"
    showgrid="false"
-   inkscape:zoom="0.92382812"
-   inkscape:cx="230.02114"
-   inkscape:cy="239.22199"
+   inkscape:zoom="4.9800001"
+   inkscape:cx="43.674698"
+   inkscape:cy="49.999999"
    inkscape:window-width="1320"
    inkscape:window-height="704"
    inkscape:window-x="0"
@@ -122,7 +122,8 @@
 
 
 <g
-   id="g7228"><path
+   id="g7228"
+   transform="scale(0.19530296)"><path
      class="st1"
      d="m 416.8,104.625 -161.6,-96 c -19.3,-11.5 -43.1,-11.5 -62.4,0 l -161.6,96 c -19.3,11.4 -31.2,32.6 -31.2,55.5 v 191.9 c 0,22.9 11.9,44.1 31.2,55.5 l 161.6,95.9 c 9.6,5.7 20.4,8.6 31.2,8.6 10.8,0 21.5,-2.9 31.2,-8.6 l 161.6,-95.9 c 19.3,-11.5 31.2,-32.6 31.2,-55.5 v -191.9 c 0,-22.9 -11.9,-44.1 -31.2,-55.5 z"
      id="path6993"
