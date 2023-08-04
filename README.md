@@ -39,7 +39,7 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 	<div >
 		<table>
 			<tr>
-				<th colspan="3"><b>Main Laptop</b> <br> <b><i>Lenovo g50-80</i></b>  </th>
+				<th colspan="3"><b>Main Laptop</b> <br> <i>Lenovo g50-80</i></th>
 			</tr>
 			<tr>
 				<td>OS</td>
