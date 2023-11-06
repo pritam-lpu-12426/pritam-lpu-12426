@@ -23,14 +23,26 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="4.9270833"
-     inkscape:cx="62.613108"
-     inkscape:cy="63.120507"
+     inkscape:cx="62.816068"
+     inkscape:cy="46.883721"
      inkscape:window-width="1320"
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg293" />
+     inkscape:current-layer="svg293"
+     showguides="true">
+    <sodipodi:guide
+       position="101.6946,61.89852"
+       orientation="1,0"
+       id="guide233"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="34.796729,10.097293"
+       orientation="0,-1"
+       id="guide235"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <path
      fill-rule="evenodd"
      clip-rule="evenodd"
