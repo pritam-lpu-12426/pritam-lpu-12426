@@ -16,20 +16,33 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 	<img alt="Auto hot key" width="30px" height="30px" src="./assets/autohotkey_modern_logo.svg" title="Auto Hot Key for Windows"/>
 	<img alt="Bash" height="30px" src="./assets/bash_logo_colored.svg" title="Bash"/>
 	<img alt="C" height="30px" src="./assets/c_programming_language.svg" title="C programming languages"/>
-	<img alt="Cmake" height="30px" src="./assets/cmake.svg" title="Cmake"/>
+	<!-- <img alt="C++" height="30px" src="./assets/c++_logo.svg" title="C++ programming languages"/> -->
+	<!-- <img alt="Java" height="30px" src="./assets/java.svg" title="Java"/> -->
+	<!-- <img alt="Rust" height="30px" src="./assets/rust_programming_language_black_logo.svg" title="C programming languages"/> -->
+	<!-- <img alt="Space" height="30px" src="./assets/space.svg" title="Space"/> -->
 	<img alt="HTML" height="30px" src="./assets/html5-original.svg" title="HTML"/>
 	<img alt="CSS" height="30px" src="./assets/css3-plain.svg" title="CSS"/>
 	<img alt="Pycharm" height="30px" src="./assets/pycharm_icon.svg" title="Pycharm IDE"/>
 	<img alt="Clion" height="30px" src="./assets/clion_icon.svg" title="Clion IDE"/>
 	<img alt="Intellij-idea" height="30px" src="./assets/intellij_idea_icon.svg" title="Intellij Idea"/>
-	<!-- <img alt="fleet" height="30px" src="./assets/fleet_icon.svg" title="Fleet IDE"/> -->
 	<!-- <img alt="Xcode" height="30px" src="./assets/xcode-seeklogo.com.svg" title="Xcode from apple"/> -->
-	<img alt="Docker" height="30px" src="./assets/docker.svg" title="Docker"/>
+	<!-- <img alt="Space" height="30px" src="./assets/space.svg" title="Space"/> -->
 	<img alt="Git" height="30px" src="./assets/git-original.svg" title="Git"/>
+	<img alt="Cmake" height="30px" src="./assets/cmake.svg" title="Cmake"/>
+	<img alt="Docker" height="30px" src="./assets/docker.svg" title="Docker"/>
+	<img alt="Jupyter" height="30px" src="./assets/jupyter-original.svg" title="Jupyter Note book for python"/>
 	<img alt="GitHub" height="30px" src="./assets/github_with_black_backgound.svg" title="GitHub"/>
-	<img alt="Linux" height="30px" src="./assets/linux.svg" title="Linux"/>
-	<img alt="Vim" height="30px" src="./assets/vimlogo.svg" title="Vim"/>
+	<!-- <img alt="Vim" height="30px" src="./assets/figma-original.svg" title="Figma"/> -->
 	<!-- <img alt="Neo vim" height="30px" src="./assets/neovimio-icon.svg" title="Neo Vim" /> -->
+	<img alt="Vim" height="30px" src="./assets/vimlogo.svg" title="Vim"/>
+	<!-- <img alt="Space" height="30px" src="./assets/space.svg" title="Space"/> -->
+	<!-- <img alt="Linux" height="30px" src="./assets/linux.svg" title="Linux"/> -->
+	<!-- <img alt="Dirwin" height="30px" src="./assets/mac_os.svg" title="Dirwin os AKA Mac os"/>	 -->
+	<img alt="Ubuntu" height="30px" src="./assets/ubuntu-plain.svg" title="Ubuntu OS"/>
+	<!-- <img alt="Gentoo" height="30px" src="./assets/gentoo-plain.svg" title="Gentoo OS"/> -->
+	<img alt="debdent" height="30px" src="./assets/debdent.svg" title="debdent OS"/>
+	<!-- <img alt="Windows" height="30px" src="./assets/microsoft-windows-11.svg" title="Windows"/> -->
+	<!-- <img alt="Space" height="30px" src="./assets/space.svg" title="Space"/> -->
 	<img alt="Gimp" height="30px" height="30px" src="./assets/the_gimp_icon-gnome.svg" title="Gimp"/>
 	<img alt="Inkscape" height="30px" src="./assets/inkscape_logo.svg" title="Inkscape"/>
 	<img alt="Davinci-resolve" height="30px" src="./assets/davinci_resolve_17_logo.svg" title="Davinci Resolve"/>

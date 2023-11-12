@@ -23,18 +23,37 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="35.033836"
-     inkscape:cx="100.17459"
-     inkscape:cy="52.235216"
+     inkscape:zoom="3.1179038"
+     inkscape:cx="46.986697"
+     inkscape:cy="60.61765"
      inkscape:window-width="1320"
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg9924" />
+     inkscape:current-layer="svg9924"
+     showguides="true">
+    <sodipodi:guide
+       position="100,62.933992"
+       orientation="1,0"
+       id="guide722"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="49.958445,12.941002"
+       orientation="0,-1"
+       id="guide724"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <circle
+     style="fill:#f9f9f9;stroke-width:1.042;paint-order:stroke fill markers;stop-color:#000000"
+     id="path822"
+     cx="-50"
+     cy="50"
+     r="50"
+     transform="rotate(-90)" />
   <g
      id="g10097"
-     transform="matrix(0.98039216,0,0,0.98039216,-0.49033481,-0.49033481)">
+     transform="matrix(0.90537519,0,0,0.90537519,2.0151149,2.0151149)">
     <g
        id="logo"
        transform="translate(53,53)">

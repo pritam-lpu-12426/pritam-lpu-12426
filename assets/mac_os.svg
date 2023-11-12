@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   aria-label="Finder"
+   role="img"
+   viewBox="0 0 110 110"
+   version="1.1"
+   id="svg360"
+   sodipodi:docname="mac_os.svg"
+   width="110"
+   height="110"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview362"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="3.5213918"
+     inkscape:cx="36.775232"
+     inkscape:cy="54.807875"
+     inkscape:window-width="1320"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg360" />
+  <defs
+     id="defs354">
+    <linearGradient
+       id="a"
+       x2="0"
+       y1="512"
+       x1="0"
+       y2="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#1e73f2"
+         id="stop344" />
+      <stop
+         offset="1"
+         stop-color="#19d3fd"
+         id="stop346" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x2="279.78937"
+       y1="390.87317"
+       gradientTransform="scale(0.76342417,1.3098878)"
+       x1="279.78937"
+       y2="-1.084891e-14"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#dbe9f4"
+         id="stop349" />
+      <stop
+         offset="1"
+         stop-color="#f7f6f6"
+         id="stop351" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g1109"
+     transform="scale(0.1953125)">
+    <path
+       id="rect342"
+       style="fill:url(#a)"
+       d="M 76.800003,0 H 435.2 C 477.7472,0 512,34.252801 512,76.800003 V 435.2 c 0,42.5472 -34.2528,76.8 -76.8,76.8 H 76.800003 C 34.252801,512 0,477.7472 0,435.2 V 76.800003 C 0,34.252801 34.252801,0 76.800003,0 Z" />
+    <path
+       fill="url(#b)"
+       d="M 435.2,0 H 274.4 c -21.2,49.2 -59.2,129.6 -60.8,283.4 a 9.9,9.9 0 0 0 10,10.1 h 58.7 a 9.9,9.9 0 0 1 9.9,10.2 933.3,933.3 0 0 0 19.1,208.3 H 435.2 A 76.8,76.8 0 0 0 512,435.2 V 76.8 A 76.8,76.8 0 0 0 435.2,0 Z"
+       id="path356"
+       style="fill:url(#b)" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-width="20"
+       d="m 371,149 v 34 M 142,149 v 34 m 263.4,147.2 a 215.2,215.2 0 0 1 -298.8,0"
+       id="path358" />
+  </g>
+</svg>
