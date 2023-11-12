@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 76.667 110"
+   version="1.1"
+   id="svg375"
+   sodipodi:docname="figma-original.svg"
+   width="76.667"
+   height="110"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs379" />
+  <sodipodi:namedview
+     id="namedview377"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="3.7344444"
+     inkscape:cx="20.484975"
+     inkscape:cy="62.927701"
+     inkscape:window-width="1320"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg375" />
+  <g
+     id="g515">
+    <path
+       fill="#0acf83"
+       d="m 16.666667,100 c 9.224806,0 16.666667,-7.44186 16.666667,-16.666666 V 66.666667 H 16.666667 C 7.4418607,66.666667 2e-7,74.108527 2e-7,83.333334 2e-7,92.55814 7.4418607,100 16.666667,100 Z m 0,0"
+       id="path365"
+       style="stroke-width:0.775194" />
+    <path
+       fill="#a259ff"
+       d="M 2e-7,50 C 2e-7,40.775194 7.4418607,33.333333 16.666667,33.333333 H 33.333334 V 66.666667 H 16.666667 C 7.4418607,66.666667 2e-7,59.224806 2e-7,50 Z m 0,0"
+       id="path367"
+       style="stroke-width:0.775194" />
+    <path
+       fill="#f24e1e"
+       d="M 2e-7,16.666667 C 2e-7,7.4418605 7.4418607,0 16.666667,0 H 33.333334 V 33.333333 H 16.666667 C 7.4418607,33.333333 2e-7,25.891473 2e-7,16.666667 Z m 0,0"
+       id="path369"
+       style="stroke-width:0.775194" />
+    <path
+       fill="#ff7262"
+       d="M 33.333334,0 H 50 c 9.224807,0 16.666667,7.4418605 16.666667,16.666667 0,9.224806 -7.44186,16.666666 -16.666667,16.666666 H 33.333334 Z m 0,0"
+       id="path371"
+       style="stroke-width:0.775194" />
+    <path
+       fill="#1abcfe"
+       d="m 66.666667,50 c 0,9.224806 -7.44186,16.666667 -16.666667,16.666667 -9.224806,0 -16.666666,-7.441861 -16.666666,-16.666667 0,-9.224806 7.44186,-16.666667 16.666666,-16.666667 9.224807,0 16.666667,7.441861 16.666667,16.666667 z m 0,0"
+       id="path373"
+       style="stroke-width:0.775194" />
+  </g>
+</svg>

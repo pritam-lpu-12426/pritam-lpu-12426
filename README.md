@@ -22,14 +22,14 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 	<img alt="Pycharm" height="30px" src="./assets/pycharm_icon.svg" title="Pycharm IDE"/>
 	<img alt="Clion" height="30px" src="./assets/clion_icon.svg" title="Clion IDE"/>
 	<img alt="Intellij-idea" height="30px" src="./assets/intellij_idea_icon.svg" title="Intellij Idea"/>
-	<img alt="fleet" height="30px" src="./assets/fleet_icon.svg" title="Fleet IDE"/>
+	<!-- <img alt="fleet" height="30px" src="./assets/fleet_icon.svg" title="Fleet IDE"/> -->
 	<!-- <img alt="Xcode" height="30px" src="./assets/xcode-seeklogo.com.svg" title="Xcode from apple"/> -->
 	<img alt="Docker" height="30px" src="./assets/docker.svg" title="Docker"/>
 	<img alt="Git" height="30px" src="./assets/git-original.svg" title="Git"/>
-	<img alt="GitHub" height="30px" src="./assets/github-mark-white.svg" title="GitHub"/>
+	<img alt="GitHub" height="30px" src="./assets/github_with_black_backgound.svg" title="GitHub"/>
 	<img alt="Linux" height="30px" src="./assets/linux.svg" title="Linux"/>
 	<img alt="Vim" height="30px" src="./assets/vimlogo.svg" title="Vim"/>
-	<img alt="Neo vim" height="30px" src="./assets/neovimio-icon.svg" title="Neo Vim" />
+	<!-- <img alt="Neo vim" height="30px" src="./assets/neovimio-icon.svg" title="Neo Vim" /> -->
 	<img alt="Gimp" height="30px" height="30px" src="./assets/the_gimp_icon-gnome.svg" title="Gimp"/>
 	<img alt="Inkscape" height="30px" src="./assets/inkscape_logo.svg" title="Inkscape"/>
 	<img alt="Davinci-resolve" height="30px" src="./assets/davinci_resolve_17_logo.svg" title="Davinci Resolve"/>
@@ -83,7 +83,7 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 
 <!-- <div>
 	<hr>
-	<h3>🫠 About system</h3>
+	<h3>About system</h3>
 	<div>
 		<table>
 			<tr>
@@ -95,7 +95,7 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 						<tr>
 							<td>OS</td>
 							<td>Name</td>
-							<td>Mac os</td>
+							<td>Dirwin OS</td>
 						</tr>
 						<tr>
 							<td rowspan="3">CPU</td>
