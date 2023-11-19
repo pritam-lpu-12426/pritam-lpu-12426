@@ -22,6 +22,7 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 	<!-- <img alt="Space" height="30px" src="./assets/space.svg" title="Space"/> -->
 	<img alt="HTML" height="30px" src="./assets/html5-original.svg" title="HTML"/>
 	<img alt="CSS" height="30px" src="./assets/css3-plain.svg" title="CSS"/>
+	<img alt="Raspberry-pi" height="30px" src="./assets/raspberrypi-original.svg" title="Raspberry-pi"/>
 	<img alt="Pycharm" height="30px" src="./assets/pycharm_icon.svg" title="Pycharm IDE"/>
 	<img alt="Clion" height="30px" src="./assets/clion_icon.svg" title="Clion IDE"/>
 	<img alt="Intellij-idea" height="30px" src="./assets/intellij_idea_icon.svg" title="Intellij Idea"/>
