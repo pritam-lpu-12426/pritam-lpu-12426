@@ -26,7 +26,7 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 	<img alt="Pycharm" height="30px" src="./assets/pycharm_icon.svg" title="Pycharm IDE"/>
 	<img alt="Clion" height="30px" src="./assets/clion_icon.svg" title="Clion IDE"/>
 	<img alt="Intellij-idea" height="30px" src="./assets/intellij_idea_icon.svg" title="Intellij Idea"/>
-	<!-- <img alt="Xcode" height="30px" src="./assets/xcode-seeklogo.com.svg" title="Xcode from apple"/> -->
+	<img alt="Xcode" height="30px" src="./assets/xcode-seeklogo.com.svg" title="Xcode from apple"/>
 	<!-- <img alt="Space" height="30px" src="./assets/space.svg" title="Space"/> -->
 	<img alt="Git" height="30px" src="./assets/git-original.svg" title="Git"/>
 	<img alt="Cmake" height="30px" src="./assets/cmake.svg" title="Cmake"/>
@@ -50,7 +50,7 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 </div>
 
 
-<div>
+<!-- <div>
 	<hr>
 	<h3>🫠 About system</h3>
 	<div >
@@ -93,9 +93,9 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 		</table>
 	</div>
 </div>
+ -->
 
-
-<!-- <div>
+<div>
 	<hr>
 	<h3>About system</h3>
 	<div>
@@ -182,4 +182,4 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 			</tr>
 		</table>	
 	</div>	
-</div> -->
+</div>
