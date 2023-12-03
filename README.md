@@ -92,8 +92,7 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 			</tr>
 		</table>
 	</div>
-</div>
- -->
+</div> -->
 
 <div>
 	<hr>
