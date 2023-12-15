@@ -13,9 +13,9 @@ On my GitHub profile 🐙, you can find a small collection of projects and exper
 <h3>🧰 Languages and Tools</h3>
 <div>
 	<img alt="Python" height="30px" src="./assets/python-logo-only.svg" title="Python"/>
+	<img alt="C" height="30px" src="./assets/c_programming_language.svg" title="C programming languages"/>
 	<img alt="Auto hot key" width="30px" height="30px" src="./assets/autohotkey_modern_logo.svg" title="Auto Hot Key for Windows"/>
 	<img alt="Bash" height="30px" src="./assets/bash_logo_colored.svg" title="Bash"/>
-	<img alt="C" height="30px" src="./assets/c_programming_language.svg" title="C programming languages"/>
 	<!-- <img alt="C++" height="30px" src="./assets/c++_logo.svg" title="C++ programming languages"/> -->
 	<!-- <img alt="Java" height="30px" src="./assets/java.svg" title="Java"/> -->
 	<!-- <img alt="Rust" height="30px" src="./assets/rust_programming_language_black_logo.svg" title="C programming languages"/> -->
