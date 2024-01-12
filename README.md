@@ -25,14 +25,13 @@ excited to be a part of the open source community where I can learn from and col
 	<!-- <img alt="C++" height="30px" src="./assets/c++_logo.svg" title="C++ programming languages"/> -->
 	<!-- <img alt="Java" height="30px" src="./assets/java.svg" title="Java"/> -->
 	<!-- <img alt="Rust" height="30px" src="./assets/rust_programming_language_black_logo.svg" title="C programming languages"/> -->
-	<!-- <img alt="Space" height="30px" src="./assets/space.svg" title="Space"/> -->
+	<!-- <img alt="Space" height="30px" src="./assets/space.svg" title="Space" /> -->
 	<img alt="HTML" height="30px" src="./assets/html5-original.svg" title="HTML" />
 	<img alt="CSS" height="30px" src="./assets/css3-plain.svg" title="CSS" />
 	<img alt="Raspberry-pi" height="30px" src="./assets/raspberrypi-original.svg" title="Raspberry-pi" />
 	<img alt="Pycharm" height="30px" src="./assets/pycharm_icon.svg" title="Pycharm IDE" />
 	<img alt="Clion" height="30px" src="./assets/clion_icon.svg" title="Clion IDE" />
 	<img alt="Intellij-idea" height="30px" src="./assets/intellij_idea_icon.svg" title="Intellij Idea" />
-	<img alt="Xcode" height="30px" src="./assets/xcode-seeklogo.com.svg" title="Xcode from apple" />
 	<!-- <img alt="Space" height="30px" src="./assets/space.svg" title="Space"/> -->
 	<img alt="Git" height="30px" src="./assets/git-original.svg" title="Git" />
 	<img alt="Cmake" height="30px" src="./assets/cmake.svg" title="Cmake" />
